@@ -22,6 +22,9 @@
     本來想要讓馬達和七段顯示器都是用同一個pic控制,但是發現這兩個的頻率沒辦法同一個,若是降低頻率,七段顯示器就會因為頻率過低而沒辦法達到視覺暫留的效果,若是提高頻率,就蠻辦法符合伺服馬達的頻率
 
 六.實際圖片
-* 馬達帶動的圓盤 ![](https://github.com/f74066357/handmade_BasketballArcade/blob/master/src/1.jpg)
-* 籃球發射器    ![](https://github.com/f74066357/handmade_BasketballArcade/blob/master/src/2.jpg)
-* 籃機整體架構 ![](https://github.com/f74066357/handmade_BasketballArcade/blob/master/src/3.jpg)
+* 馬達帶動的圓盤 ![](https://github.com/f74066357/handmade_BasketballArcade/blob/master/src/1.jpg)  
+
+* 籃球發射器    ![](https://github.com/f74066357/handmade_BasketballArcade/blob/master/src/2.jpg)  
+
+* 籃機整體架構 ![](https://github.com/f74066357/handmade_BasketballArcade/blob/master/src/3.jpg)  
+
